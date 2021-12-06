@@ -5,6 +5,7 @@ aliases:
     - image: cimg/openjdk:17.0.0-node
     - imagebis: toz
     - image: cimg/openjdk:17.0.0-node.rnr1
+    - image: test
 
   - &environment
     TZ: /usr/share/zoneinfo/America/Los_Angeles
