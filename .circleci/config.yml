@@ -8,6 +8,9 @@ aliases:
     - image: test_b1_continue
     - image: test_b1_to_main_stashe_to see
 
+  - masterPC
+     - c'est fait
+ 
   - &environment
     TZ: /usr/share/zoneinfo/America/Los_Angeles
 
