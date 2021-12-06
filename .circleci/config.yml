@@ -30,7 +30,7 @@ aliases:
   - &TEST_PARALLELISM 2000000000
 
   - &attach_workspace
-    at: build
+    at: build 200000000
 
 # The CircleCI API doesn't yet support triggering a specific workflow, but it
 # does support triggering a pipeline. So as a workaround you can triggger the
