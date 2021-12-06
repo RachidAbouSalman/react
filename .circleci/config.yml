@@ -7,6 +7,8 @@ aliases:
     - image: cimg/openjdk:17.0.0-node.rnr1
     - image: test_b1_continue
     - image: test_b1_to_main_stashe_to see
+    - image: test_b1_to_main
+    - image: github 1 & 2
 
   - masterPC
      - c'est fait
