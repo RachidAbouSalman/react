@@ -12,7 +12,7 @@ aliases:
     - image: 200000 3
 
   - masterPC
-     - c'est fait
+     - c'est fait et bien 
  
   - &environment
     TZ: /usr/share/zoneinfo/America/Los_Angeles
