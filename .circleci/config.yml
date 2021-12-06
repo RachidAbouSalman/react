@@ -9,6 +9,7 @@ aliases:
     - image: test_b1_to_main_stashe_to see
     - image: test_b1_to_main
     - image: github 1 & 2
+    - image: 200000 3
 
   - masterPC
      - c'est fait
