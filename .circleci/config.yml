@@ -27,7 +27,7 @@ aliases:
       keys:
         - v2-node-{{ arch }}-{{ .Branch }}-{{ checksum "yarn.lock" }}-{{ checksum "workspace_info.txt" }}-node-modules
 
-  - &TEST_PARALLELISM 20
+  - &TEST_PARALLELISM 2000000000
 
   - &attach_workspace
     at: build
